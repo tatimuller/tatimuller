@@ -1,11 +1,10 @@
-### Hi there 👋 I am Tatiane Müller 
+### Hi there 👋 I am Tatiane Müller tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
 
 
 
 - 🌱 I’m currently learning Ruby on Rails, PHP, Javascript
 - 💻  I worked with Java, MySQL, Oracle, HTML, CSS
 - 📫 How to reach me: tatianegamuller@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/tatimuller">
