@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Ruby on Rails, PHP, Javascript
+- 🌱 I’m currently learning Java, Ruby on Rails, Javascript
 - 💻  I worked with Java, MySQL, Oracle, HTML, CSS
 - 📫 How to reach me: tatianegamuller@gmail.com
 
