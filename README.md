@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m currently learning Java, Javascript
-- 💻  I worked with Java, MySQL, Oracle, HTML, CSS
+- 🌱 I’m currently learning more about Java, Spring Boot e React
+- 💻  I worked with Java, Spring, MySQL, Oracle, MongoDB, AngularJS, HTML, CSS
 - 📫 How to reach me: tatianegamuller@gmail.com
 
 <div align="center">
