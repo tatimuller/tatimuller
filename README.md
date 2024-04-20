@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning more about Java, Spring Boot e React
+- 🌱 I’m currently learning more about Java, Spring Boot, Angular e React
 - 💻  I worked with Java, Spring, MySQL, Oracle, MongoDB, AngularJS, HTML, CSS
 - 📫 How to reach me: tatianegamuller@gmail.com
 
