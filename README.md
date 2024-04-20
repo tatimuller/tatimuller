@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning more about Java, Spring Boot, Angular e React
 - 💻  I worked with Java, Spring, MySQL, Oracle, MongoDB, AngularJS, HTML, CSS
-- 📫 How to reach me: tatianegamuller@gmail.com
+- 📫 How to reach me: tatianegamuller@gmail.com, https://www.linkedin.com/in/tatianegalvamuller/
+- 
 
 <div align="center">
   <a href="https://github.com/tatimuller">
